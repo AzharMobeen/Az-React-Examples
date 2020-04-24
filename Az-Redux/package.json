@@ -1,0 +1,18 @@
+{
+  "name": "Az-Redux",
+  "version": "1.0.0",
+  "description": "In this Project I'll create simple `react app` with `Redux lib` and discuss about basics of React-Redux fundamentals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  }
+}
